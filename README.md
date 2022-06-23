@@ -2,11 +2,15 @@
 
 ## Dependencies
 
-Before use download the latest jdk
+1. Before use download the latest jdk
 
 	wget https://download.oracle.com/java/18/archive/jdk-18.0.1.1_linux-x64_bin.deb
 
-## Usage
+2. Download the submodules
+
+	git submodule update --init --recursive
+
+## How to run
 
 1. Build the docker conteiner
 
@@ -16,3 +20,5 @@ Before use download the latest jdk
 
 	sh run_docker.sh
 
+
+## Usage
