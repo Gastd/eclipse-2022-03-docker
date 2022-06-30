@@ -4,7 +4,7 @@
 
 Before use download the latest jdk
 
-	wget https://download.oracle.com/java/18/archive/jdk-18.0.1.1_linux-x64_bin.deb
+	wget https://download.oracle.com/java/18/archive/jdk-18.0.1.1_linux-x64_bin.deb -O jdk-18_linux-x64_bin.deb
 
 Download the submodules
 
